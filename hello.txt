@@ -1,7 +1,0 @@
-<!DOCPYTE html>
-<html>
-<body>
-<h1>HELLO,i am Moller</h1>
-<p>i am talk with you by GitHub.</p>
-</body>
-</html>
